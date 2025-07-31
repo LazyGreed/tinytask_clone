@@ -4,6 +4,12 @@ A clone of [Tiny Task](https://web.archive.org/web/20171016105935/http://www.vta
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/cdd741f8-a761-4249-b063-c539d0857064
+
+---
+
 ## Requirements
 - **Python**: 3.7 or higher
 - **pynput**
