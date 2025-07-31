@@ -1,0 +1,16 @@
+pkgbase = tinytask-enhanced
+	pkgdesc = TinyTask for Linux - Enhanced GUI macro recorder/player
+	pkgver = 0.1.0
+	pkgrel = 1
+	url = https://github.com/yourusername/tinytask-enhanced
+	arch = any
+	license = MIT
+	depends = python
+	depends = python-pynput
+	depends = python-pyqt5
+	source = tinytask_enhanced.py
+	source = tinytask-enhanced.desktop
+	md5sums = SKIP
+	md5sums = SKIP
+
+pkgname = tinytask-enhanced

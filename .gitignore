@@ -1,0 +1,7 @@
+.venv
+launch.sh
+test_compatibility.py
+tinytask_gui.py
+tinytask_linux.py
+__pycache__
+*.pkg.tar.zst
