@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=TinyTask Enhanced
-Comment=Linux macro recorder/player (TinyTask clone)
-Exec=tinytask-enhanced
-Icon=utilities-terminal
-Terminal=false
-Type=Application
-Categories=Utility;

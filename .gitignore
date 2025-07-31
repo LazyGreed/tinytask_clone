@@ -1,4 +1,5 @@
 .venv
+pkg
 launch.sh
 test_compatibility.py
 tinytask_gui.py
